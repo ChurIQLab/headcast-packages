@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: EpgCast
+Label: EpgCast
+Suite: stable
+Codename: stable
+Date: Sun, 01 Nov 2026 11:50:50 UTC
+Architectures: amd64 arm64
+Components: main
+SHA256:
+ 210c8d314a96601c8dc8eab8bcb59c27c09fa6a4d5012627d73f78a4fe36a666 509 main/binary-arm64/Packages.gz
+ 82570180067e5879b9e4a2b3bf7c5363108601c5403cd0d93b3088b9af934467 612 main/binary-arm64/Packages
+ dc9c3c6c0ad954dc33ddce3073cbb2539ea4dc14c3ab0c4e0d49481f793de3d3 612 main/binary-amd64/Packages
+ f5f8f0405ecf211a3cb193cd6a32be5d864a3fe0d238b6498ece66bdaf4473f3 509 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQQAhubdPvD6LA+facIf0Nb69fbSAgUCaucn4hsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQH9DW+vX20gIFaAD7Bltk6ulmv3pzTUVGbATF
+3RtZ3jTX2vMjkBNkOHHVyiYBAI2Bp40TF6s/rrLWfAPP0AV/mk3SD96TNBBNSVWV
+zhIF
+=5Vor
+-----END PGP SIGNATURE-----
