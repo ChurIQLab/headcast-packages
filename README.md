@@ -1,11 +1,11 @@
-# Пакеты EpgCast
+# Пакеты HeadCast
 
-Репозиторий apt для Debian 12 и совместимых систем, amd64 и arm64. Исходного кода здесь нет.
+Репозиторий apt программ системы HeadCast для Debian 12 и совместимых систем, amd64 и arm64. Исходного кода здесь нет.
 
-Первая установка: скачайте `.deb` со страницы [выпусков](https://github.com/ChurIQLab/packages/releases) и выполните:
+Первая установка: скачайте `.deb` со страницы [выпусков](https://github.com/ChurIQLab/headcast-packages/releases) и выполните:
 
 ```
-sudo apt install ./epgcast_1.2.0_amd64.deb
+sudo apt install ./epgcast_1.2.1_amd64.deb
 ```
 
 Пакет сам подключит этот репозиторий. Обновление:

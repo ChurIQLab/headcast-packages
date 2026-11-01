@@ -2,11 +2,11 @@ Origin: EpgCast
 Label: EpgCast
 Suite: stable
 Codename: stable
-Date: Sun, 01 Nov 2026 11:50:50 UTC
+Date: Sun, 01 Nov 2026 12:00:31 UTC
 Architectures: amd64 arm64
 Components: main
 SHA256:
- 210c8d314a96601c8dc8eab8bcb59c27c09fa6a4d5012627d73f78a4fe36a666 509 main/binary-arm64/Packages.gz
- 82570180067e5879b9e4a2b3bf7c5363108601c5403cd0d93b3088b9af934467 612 main/binary-arm64/Packages
- dc9c3c6c0ad954dc33ddce3073cbb2539ea4dc14c3ab0c4e0d49481f793de3d3 612 main/binary-amd64/Packages
- f5f8f0405ecf211a3cb193cd6a32be5d864a3fe0d238b6498ece66bdaf4473f3 509 main/binary-amd64/Packages.gz
+ 34c2fc06770147ba43521f8b54a8f4a3fe4893a881293abd8dbcc38dd8a0530e 612 main/binary-amd64/Packages
+ 5fc3fe74cddfc02d2a08e66f805af3ea9a7ecc832eddedec12ea88d8ccd59aa7 509 main/binary-amd64/Packages.gz
+ de6269917228109aec206b5a00d761fe9c14ff27de691384703f80538ac02eb8 612 main/binary-arm64/Packages
+ ef9b401fbf4086403041639681e9bebb6774a528177feb15a405681dfd171096 508 main/binary-arm64/Packages.gz
