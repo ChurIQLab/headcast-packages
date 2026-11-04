@@ -12,3 +12,18 @@ Filename: pool/main/e/epgcast/epgcast_1.2.1_arm64.deb
 Size: 6827292
 MD5sum: f456fa5c160082eca1104cb13ff95802
 SHA256: 091eebda8301c93080291e6632ea6719904a1cd66d2a918df039c1555bd8e005
+
+Package: epgcast
+Version: 1.2.2
+Section: net
+Priority: optional
+Architecture: arm64
+Maintainer: EpgCast <churkin.vitaliy@mail.ru>
+Installed-Size: 16676
+Description: Телепрограмма для цифрового ТВ.
+ Загружает XMLTV и отдаёт таблицы DVB SI (EIT, NIT, TDT/TOT) по UDP
+ на модуляторы и мультиплексоры. Настройка через веб-админку.
+Filename: pool/main/e/epgcast/epgcast_1.2.2_arm64.deb
+Size: 6988630
+MD5sum: d144d44aec21e7dabd48b51701c677fc
+SHA256: a534c6d4efbc458994d0c290edee98052fc2212a9d46628afcf2fd70b6ddd35e

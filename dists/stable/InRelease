@@ -5,19 +5,19 @@ Origin: EpgCast
 Label: EpgCast
 Suite: stable
 Codename: stable
-Date: Sun, 01 Nov 2026 12:00:31 UTC
+Date: Wed, 04 Nov 2026 20:47:28 UTC
 Architectures: amd64 arm64
 Components: main
 SHA256:
- 34c2fc06770147ba43521f8b54a8f4a3fe4893a881293abd8dbcc38dd8a0530e 612 main/binary-amd64/Packages
- 5fc3fe74cddfc02d2a08e66f805af3ea9a7ecc832eddedec12ea88d8ccd59aa7 509 main/binary-amd64/Packages.gz
- de6269917228109aec206b5a00d761fe9c14ff27de691384703f80538ac02eb8 612 main/binary-arm64/Packages
- ef9b401fbf4086403041639681e9bebb6774a528177feb15a405681dfd171096 508 main/binary-arm64/Packages.gz
+ 6faa10f7372f8d19379c5b7dbca1d90c82ebca6541ab1dc21547537f682c97ae 612 main/binary-amd64/Packages.gz
+ 81e2d0e03e950ccee5fe3e3d72884789e7dfefb8866338ef75630b0fb02d91ae 1225 main/binary-arm64/Packages
+ 96fcf43891a3b93ab5515490940c1f3a6d9db4d22ffad4f30f09f3bf3cc7346d 612 main/binary-arm64/Packages.gz
+ d5f6116477afdb71ad673f463891fc218f71462201f23d4f970ace2542058a3a 1225 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQAhubdPvD6LA+facIf0Nb69fbSAgUCaucqYRsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQH9DW+vX20gJ/2wEA8nPdd4+zh8sDpIdu11hZ
-sQ9VwliNkI83VPkEydaPO94BANNhWw+FPHyZO1nguxQ2K0orSqJG/uDK2h2kvsaL
-TtAH
-=urGq
+iJEEARYKADkWIQQAhubdPvD6LA+facIf0Nb69fbSAgUCauuZ5RsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQH9DW+vX20gKGVgEA0B7fBqgiwUbMHLwPYFRY
+q0gYE2+tiO87ENeHlN2D6lIA/3f5EcEjF5t/Nb0fJBamXmhDof+P57DLCJDZUD5H
+ccMC
+=mfOn
 -----END PGP SIGNATURE-----
